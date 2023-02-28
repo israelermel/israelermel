@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá, me chamo Israel Ermel ! 
+## Bem vindo ao meu perfil GitHub 👋
+### Aqui você vai encontrar projetos que estou amando construir, estudos que venho realizando e caso queira aprender junto bora clonar os repos ou venha trocar uma idéia comigo pelo LinkedIn
 
-<!--
-**israelermel/israelermel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ferramentas e Tecnologias
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/israelermel">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelermel&layout=compact&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelermel&count_private=true&show_icons=true&hide=contribs&theme=radical"/>
+
+</div>
+
+
+## Contatos:
+
+<div>
+
+<a href = "mailto:israelermel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/israel-ermel-b243a8b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
