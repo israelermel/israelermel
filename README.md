@@ -1,6 +1,6 @@
-# Olá, me chamo Israel Ermel ! 
-## Bem vindo ao meu perfil GitHub 👋
-### Aqui você vai encontrar projetos que estou amando construir, estudos que venho realizando e caso queira aprender junto bora clonar os repos ou venha trocar uma idéia comigo pelo LinkedIn
+# Hello, my name is Israel Ermel ! 
+## You're Welcome to my GitHub profile 👋
+### Here you will find projects that I am loving to build, studies that I have been carrying out and if you want to learn together let's clone the repos or come and exchange an idea with me on LinkedIn
 
 ## Ferramentas e Tecnologias
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
